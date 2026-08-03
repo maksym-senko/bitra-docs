@@ -1,4 +1,4 @@
-**CherishOS v4.8**
+#CherishOS v4.8
 
 **Android:** 13
 
