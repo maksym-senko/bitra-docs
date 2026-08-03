@@ -1,12 +1,8 @@
-# bitra-docs
+# Bitra Archive
+
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=16W0qhsMGFL291w8_BJDua6xFFtLFxoik" alt="Bitra-archive" width="600">
 </p>
-
-
-# Bitra Archive
-
-</div>
 
 Добро пожаловать в **Bitra Archive** — единый централизованный архив прошивок, рекавери, кастомных ядер и полезных модификаций для смартфона **Realme GT Neo 2 5G (RMX3370 / bitra)**.
 
@@ -17,7 +13,9 @@
 ## 🧭 Навигация проекта
 
 <details>
-  <summary><b>📲 Прошивки</b></summary>
+<summary><code> 📲 Прошивки </code></summary>
+
+<br>
 
 <h3 align="center">Android 13</h3>
 
@@ -25,31 +23,44 @@
 
 <h3 align="center">Android 12</h3>
 
-  * [ColorOS 12.1 (с OPPO Find X5 Pro)](https://s.craft.me/IzYvzmQjFgK2ZE)
-</details>
-<details>
+* [ColorOS 12.1 (с OPPO Find X5 Pro)](https://s.craft.me/IzYvzmQjFgK2ZE)
 
-  <summary><b>⚡ Ядра</b></summary>
-
-  * 
 </details>
 
-<details>
-  <summary><b>🛠️ Рекавери</b></summary>
+<br>
 
-  * 
+<details>
+<summary><code> ⚡ Ядра </code></summary>
+
+* *Раздел пополняется...*
+
 </details>
 
-<details>
-  <summary><b>📦 Firmware</b></summary>
+<br>
 
-  * 
+<details>
+<summary><code> 🛠️ Рекавери </code></summary>
+
+* *Раздел пополняется...*
+
 </details>
 
-<details>
-  <summary><b>📖 Инструкции</b></summary>
+<br>
 
-  * 
+<details>
+<summary><code> 📦 Firmware </code></summary>
+
+* *Раздел пополняется...*
+
+</details>
+
+<br>
+
+<details>
+<summary><code> 📖 Инструкции </code></summary>
+
+* *Раздел пополняется...*
+
 </details>
 
 ---
@@ -67,4 +78,4 @@
 
 ---
 
-> *Все авторские права на модификации принадлежат их создателям.*
+> ⚠️ *Все авторские права на прошивки и модификации принадлежат их создателям.*
