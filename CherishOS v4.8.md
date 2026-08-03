@@ -29,8 +29,6 @@
 
 </details>
 
-<br>
-
 <details>
 <summary> Инструкция по установке </summary>
 
@@ -41,8 +39,6 @@
 5. Перезагрузитесь в систему (`Reboot to System`).
 
 </details>
-
-<br>
 
 <details>
 <summary> Скриншоты</summary>
@@ -72,8 +68,6 @@
 </p>
 
 </details>
-
-<br>
 
 <details>
 <summary> Скачать </summary>
