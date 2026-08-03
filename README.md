@@ -1,8 +1,8 @@
 # bitra-docs
 <p align="center">
-  <img src="https://drive.google.com/file/d/16W0qhsMGFL291w8_BJDua6xFFtLFxoik/view?usp=drivesdk" alt="Bitra-archive">
+  <img src="https://drive.google.com/uc?export=view&id=16W0qhsMGFL291w8_BJDua6xFFtLFxoik" alt="Bitra-archive" width="600">
 </p>
-<div align="center">
+
 
 # Bitra Archive
 
