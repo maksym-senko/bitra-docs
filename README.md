@@ -27,8 +27,6 @@
 
   * [ColorOS 12.1 (с OPPO Find X5 Pro)](https://s.craft.me/IzYvzmQjFgK2ZE)
 </details>
-
-
 <details>
 
   <summary><b>⚡ Ядра</b></summary>
