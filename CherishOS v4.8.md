@@ -1,4 +1,4 @@
-#CherishOS v4.8
+**CherishOS v4.8**
 
 **Android:** 13
 
@@ -21,7 +21,7 @@
 * PixelPropsUtils: Эмулируется ROG Phone 3 для игры FIFA Mobile.
 * Исправлена проблема с восстановлением данных Google, спасибо @EvolutionX.
 * Улучшена анимация расширения уведомлений в Quick Settings.
-* Улучшена работа системы.
+* Улучшена работа системы.*
 </details>
 
 ---
