@@ -19,11 +19,11 @@
 <details>
   <summary><b>📲 Прошивки</b></summary>
 
-**Android 13**
+<center>**Android 13**</center>
 
 * [Cherish OS v4.8](https://github.com/maksym-senko/bitra-docs/blob/main/CherishOS%20v4.8.md)
 
-**Android 12**
+<center>**Android 12**</center>
 
   * [ColorOS 12.1 (с OPPO Find X5 Pro)](https://s.craft.me/IzYvzmQjFgK2ZE)
 </details>
