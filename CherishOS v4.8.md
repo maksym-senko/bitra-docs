@@ -37,16 +37,16 @@
 </details><details>
 <summary> Скриншоты</summary>
 
-<img src="/assets/src/cherishos_4.8/IMG_20260803_141139_522.jpg" wight=50%>
-<img src="/assets/src/cherishos_4.8/">
-<img src="/assets/src/cherishos_4.8/">
-<img src="/assets/src/cherishos_4.8/">
-<img src="/assets/src/cherishos_4.8/">
-<img src="/assets/src/cherishos_4.8/">
-<img src="/assets/src/cherishos_4.8/">
-<img src="/assets/src/cherishos_4.8/">
-<img src="/assets/src/cherishos_4.8/">
-<img src="/assets/src/cherishos_4.8/">
+<img src="/assets/src/cherishos_4.8/IMG_20260803_141139_522.jpg">
+<img src="/assets/src/cherishos_4.8/IMG_20260803_141139_638.jpg">
+<img src="/assets/src/cherishos_4.8/IMG_20260803_141139_693.jpg">
+<img src="/assets/src/cherishos_4.8/IMG_20260803_141139_804.jpg">
+<img src="/assets/src/cherishos_4.8/IMG_20260803_141140_050.jpg">
+<img src="/assets/src/cherishos_4.8/IMG_20260803_141140_062.jpg">
+<img src="/assets/src/cherishos_4.8/IMG_20260803_141140_091.jpg">
+<img src="/assets/src/cherishos_4.8/IMG_20260803_141140_233.jpg">
+<img src="/assets/src/cherishos_4.8/IMG_20260803_141140_271.jpg">
+<img src="/assets/src/cherishos_4.8/IMG_20260803_141140_283.jpg">
 
 </details>
 
