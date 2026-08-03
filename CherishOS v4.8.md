@@ -14,7 +14,7 @@
 ---
 
 <details>
-<blockquote><summary> Список изменений</summary></blockquote>
+<summary> Список изменений</summary>
 
 * Интегрировано обновление безопасности за май в исходный код прошивки.
 * Улучшены стили Quick Settings (QS).
@@ -61,7 +61,5 @@
 * [SourceForge](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-2016-bitra-OFFICIAL-Vanilla.zip/download)
 
 </details>
-
----
 
 
