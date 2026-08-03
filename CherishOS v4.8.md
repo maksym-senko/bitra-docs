@@ -74,11 +74,10 @@
 
 <br>
 
-**GApps сборка:** 
-
+**GApps сборка:**
 * [SourceForge](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-1415-bitra-OFFICIAL-GApps.zip/download)
-**Vanilla сборка:**
 
+**Vanilla сборка:**
 * [SourceForge](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-2016-bitra-OFFICIAL-Vanilla.zip/download)
 
 </details>
