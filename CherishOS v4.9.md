@@ -58,9 +58,6 @@
   <img src="assets/src/cherishos_v4.9/IMG_20260803_213839_374.jpg" width="30%">
   <img<img src="assets/src/cherishos_v4.9/IMG_20260803_213839_607.jpg" width="30%">
   <img src="assets/src/cherishos_v4.9/IMG_20260803_213839_679.jpg" width="30%">
-</p>
-
-<p align="center">
   <img src="assets/src/cherishos_v4.9/IMG_20260803_213839_691.jpg" width="30%">
 </p>
 
