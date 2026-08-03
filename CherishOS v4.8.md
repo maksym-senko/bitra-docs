@@ -1,65 +1,95 @@
-<img src="assets/src/cherishos_4.8/IMG_20260803_142548_325.jpg">
-
+<p align="center">
+  <img src="assets/src/cherishos_4.8/IMG_20260803_142548_325.jpg" width="100%" alt="CherishOS Banner">
+</p>
 
 # CherishOS v4.8
 
-**Android:** 13
-
-**Статус:** Official
-
-**Дата билда:** 18.06.2023
-
-**Автор/разработчик:** JYR_RC
+* **Android:** 13
+* **Статус:** Official
+* **Дата билда:** 18.06.2023
+* **Мейнтейнер:** JYR_RC
 
 ---
 
 <details>
-<summary><b> Список изменений</b></summary>
+<summary><code> 📑 Список изменений </code></summary>
+
+<br>
 
 * Интегрировано обновление безопасности за май в исходный код прошивки.
 * Улучшены стили Quick Settings (QS).
 * Заменены иконки блокировки экрана на двухцветные иконки.
 * Добавлены стили фона часов в строке состояния.
-* Режим "карман": Обновлен стиль в соответствии с последними спецификациями OxygenOS.
+* Режим "карман": обновлен стиль в соответствии с последними спецификациями OxygenOS.
 * Исправлена интенсивность размытия на экране блокировки.
-* PixelPropsUtils: Эмулируется ROG Phone для игры FIFA Mobile.
-* Исправлена проблема с восстановлением данных Google, спасибо @EvolutionX.
+* PixelPropsUtils: эмулируется ROG Phone для игры FIFA Mobile.
+* Исправлена проблема с восстановлением данных Google (спасибо @EvolutionX).
 * Улучшена анимация расширения уведомлений в Quick Settings.
-* Улучшена работа системы.
+* Улучшена общая производительность и стабильность системы.
 
 </details>
+
+<br>
+
 <details>
-<summary><b> Инструкция по установке</b></summary>
+<summary><code> 🛠️ Инструкция по установке </code></summary>
 
-* Загрузитесь в рекавери (Recovery).
-* Выполните форматирование данных (Format Data), набрав yes.
-* Прошиваем ROM.
-* Делаем Wipe (Dalvik/Cache).
-* Перезагрузка в систему.
+<br>
 
-</details><details>
-<summary><b> Скриншоты</b></summary>
+> [!IMPORTANT]
+> Перед установкой обязательно сделайте резервную копию всех важных данных!
 
-<img src="/assets/src/cherishos_4.8/IMG_20260803_141139_522.jpg">
-<img src="/assets/src/cherishos_4.8/IMG_20260803_141139_638.jpg">
-<img src="/assets/src/cherishos_4.8/IMG_20260803_141139_693.jpg">
-<img src="/assets/src/cherishos_4.8/IMG_20260803_141139_804.jpg">
-<img src="/assets/src/cherishos_4.8/IMG_20260803_141140_050.jpg">
-<img src="/assets/src/cherishos_4.8/IMG_20260803_141140_062.jpg">
-<img src="/assets/src/cherishos_4.8/IMG_20260803_141140_091.jpg">
-<img src="/assets/src/cherishos_4.8/IMG_20260803_141140_233.jpg">
-<img src="/assets/src/cherishos_4.8/IMG_20260803_141140_271.jpg">
-<img src="/assets/src/cherishos_4.8/IMG_20260803_141140_283.jpg">
-
-</details><details>
-<summary><b> Скачать</b></summary>
-
-**Gapps:**
-* [SourceForge](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-1415-bitra-OFFICIAL-GApps.zip/download)
-
-**Vanilla**
-* [SourceForge](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-2016-bitra-OFFICIAL-Vanilla.zip/download)
+1. Загрузитесь в кастомное рекавери (Recovery).
+2. Выполните форматирование данных (`Format Data` через ввод `yes`).
+3. Прошейте zip-архив с ROM.
+4. Выполните `Wipe Dalvik / ART Cache`.
+5. Перезагрузитесь в систему (`Reboot to System`).
 
 </details>
 
+<br>
 
+<details>
+<summary><code> 📱 Скриншоты </code></summary>
+
+<br>
+
+<p align="center">
+  <img src="assets/src/cherishos_4.8/IMG_20260803_141139_522.jpg" width="30%">
+  <img src="assets/src/cherishos_4.8/IMG_20260803_141139_638.jpg" width="30%">
+  <img src="assets/src/cherishos_4.8/IMG_20260803_141139_693.jpg" width="30%">
+</p>
+
+<p align="center">
+  <img src="assets/src/cherishos_4.8/IMG_20260803_141139_804.jpg" width="30%">
+  <img src="assets/src/cherishos_4.8/IMG_20260803_141140_050.jpg" width="30%">
+  <img src="assets/src/cherishos_4.8/IMG_20260803_141140_062.jpg" width="30%">
+</p>
+
+<p align="center">
+  <img src="assets/src/cherishos_4.8/IMG_20260803_141140_091.jpg" width="30%">
+  <img src="assets/src/cherishos_4.8/IMG_20260803_141140_233.jpg" width="30%">
+  <img src="assets/src/cherishos_4.8/IMG_20260803_141140_271.jpg" width="30%">
+</p>
+
+<p align="center">
+  <img src="assets/src/cherishos_4.8/IMG_20260803_141140_283.jpg" width="30%">
+</p>
+
+</details>
+
+<br>
+
+<details>
+<summary><code> 📥 Скачать </code></summary>
+
+<br>
+
+* **GApps сборка:** [SourceForge (GApps.zip)](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-1415-bitra-OFFICIAL-GApps.zip/download)
+* **Vanilla сборка:** [SourceForge (Vanilla.zip)](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-2016-bitra-OFFICIAL-Vanilla.zip/download)
+
+</details>
+
+---
+
+> ⚠️ *Все манипуляции с устройством вы производите на свой страх и риск.*
