@@ -50,6 +50,7 @@
 
 </details><details>
 <summary> Скачать</summary>
+
 **Gapps:**
 * [SourceForge](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-1415-bitra-OFFICIAL-GApps.zip/download)
 
