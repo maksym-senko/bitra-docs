@@ -37,6 +37,9 @@
 </details>
 
 <details>
+
+---
+
   <summary><b>⚡ Ядра</b></summary>
 
   * 
