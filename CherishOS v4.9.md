@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/src/cherishos_v4.9/IMG_20260803_213839_330.jpg" width="100%" alt="Cherishos v4.9 Banner">
+  <img src="assets/src/cherishos_v4.9/IMG_20260803_213810_772.jpg" width="100%" alt="Cherishos v4.9 Banner">
 </p>
 
 # CherishOS v4.9
@@ -43,7 +43,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/src/cherishos_v4.9/IMG_20260803_213810_772.jpg" width="30%">
+  <img src="assets/src/cherishos_v4.9/IMG_20260803_213839_330.jpg" width="30%">
   <img src="assets/src/cherishos_v4.9/IMG_20260803_213838_769.jpg" width="30%">
   <img src="assets/src/cherishos_v4.9/IMG_20260803_213838_960.jpg" width="30%">
 </p>
