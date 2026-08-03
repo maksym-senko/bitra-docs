@@ -12,7 +12,7 @@
 ---
 
 <details>
-<summary><code> 📑 Список изменений </code></summary>
+<summary> Список изменений </summary>
 
 <br>
 
@@ -32,12 +32,7 @@
 <br>
 
 <details>
-<summary><code> 🛠️ Инструкция по установке </code></summary>
-
-<br>
-
-> [!IMPORTANT]
-> Перед установкой обязательно сделайте резервную копию всех важных данных!
+<summary> Инструкция по установке </summary>
 
 1. Загрузитесь в кастомное рекавери (Recovery).
 2. Выполните форматирование данных (`Format Data` через ввод `yes`).
@@ -50,7 +45,7 @@
 <br>
 
 <details>
-<summary><code> 📱 Скриншоты </code></summary>
+<summary> Скриншоты</summary>
 
 <br>
 
@@ -81,15 +76,11 @@
 <br>
 
 <details>
-<summary><code> 📥 Скачать </code></summary>
+<summary> Скачать </summary>
 
 <br>
 
-* **GApps сборка:** [SourceForge (GApps.zip)](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-1415-bitra-OFFICIAL-GApps.zip/download)
-* **Vanilla сборка:** [SourceForge (Vanilla.zip)](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-2016-bitra-OFFICIAL-Vanilla.zip/download)
+* **GApps сборка:** [SourceForge](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-1415-bitra-OFFICIAL-GApps.zip/download)
+* **Vanilla сборка:** [SourceForge](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-2016-bitra-OFFICIAL-Vanilla.zip/download)
 
 </details>
-
----
-
-> ⚠️ *Все манипуляции с устройством вы производите на свой страх и риск.*
