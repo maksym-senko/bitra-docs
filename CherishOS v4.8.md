@@ -48,7 +48,16 @@
 <img src="/assets/src/cherishos_4.8/IMG_20260803_141140_271.jpg">
 <img src="/assets/src/cherishos_4.8/IMG_20260803_141140_283.jpg">
 
+</details><details>
+<summary> Скачать</summary>
+**Gapps:**
+* [SourceForge](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-1415-bitra-OFFICIAL-GApps.zip/download)
+
+**Vanilla**
+* [SourceForge](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-2016-bitra-OFFICIAL-Vanilla.zip/download)
+
 </details>
 
 ---
+
 
