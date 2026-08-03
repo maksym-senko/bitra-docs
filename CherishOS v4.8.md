@@ -30,7 +30,7 @@
 </details>
 
 <details>
-<summary> Инструкция по установке </summary>
+<summary><b>  Инструкция по установке </b></summary>
 
 1. Загрузитесь в кастомное рекавери (Recovery).
 2. Выполните форматирование данных (`Format Data` через ввод `yes`).
@@ -41,7 +41,7 @@
 </details>
 
 <details>
-<summary> Скриншоты</summary>
+<summary><b> Скриншоты </b></summary>
 
 <br>
 
@@ -70,7 +70,7 @@
 </details>
 
 <details>
-<summary> Скачать </summary>
+<summary><b> Скачать </b></summary>
 
 <br>
 
