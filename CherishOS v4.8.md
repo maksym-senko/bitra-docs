@@ -29,7 +29,7 @@
 
 </details>
 <details>
-<summary> Инструкция по установке</summary>
+<summary><b> Инструкция по установке</b></summary>
 
 * Загрузитесь в рекавери (Recovery).
 * Выполните форматирование данных (Format Data), набрав yes.
@@ -38,7 +38,7 @@
 * Перезагрузка в систему.
 
 </details><details>
-<summary> Скриншоты</summary>
+<summary><b> Скриншоты</b></summary>
 
 <img src="/assets/src/cherishos_4.8/IMG_20260803_141139_522.jpg">
 <img src="/assets/src/cherishos_4.8/IMG_20260803_141139_638.jpg">
@@ -52,7 +52,7 @@
 <img src="/assets/src/cherishos_4.8/IMG_20260803_141140_283.jpg">
 
 </details><details>
-<summary> Скачать</summary>
+<summary><b> Скачать</b></summary>
 
 **Gapps:**
 * [SourceForge](https://sourceforge.net/projects/cherish-os/files/device/bitra/Cherish-OS-v4.8-20230617-1415-bitra-OFFICIAL-GApps.zip/download)
