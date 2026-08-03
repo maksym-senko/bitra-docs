@@ -12,7 +12,7 @@
 ---
 
 <details>
-<summary> Список изменений </summary>
+<summary><b>  Список изменений </b></summary>
 
 <br>
 
