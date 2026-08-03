@@ -1,3 +1,6 @@
+<img src="assets/src/cherishos_4.8/IMG_20260803_142548_325.jpg">
+
+
 # CherishOS v4.8
 
 **Android:** 13
