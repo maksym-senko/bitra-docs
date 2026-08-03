@@ -34,14 +34,21 @@
 * Делаем Wipe (Dalvik/Cache).
 * Перезагрузка в систему.
 
+</details><details>
+<summary> Скриншоты</summary>
+
+<img src="/assets/src/cherishos_4.8/IMG_20260803_141139_522.jpg" wight=50%>
+<img src="/assets/src/cherishos_4.8/">
+<img src="/assets/src/cherishos_4.8/">
+<img src="/assets/src/cherishos_4.8/">
+<img src="/assets/src/cherishos_4.8/">
+<img src="/assets/src/cherishos_4.8/">
+<img src="/assets/src/cherishos_4.8/">
+<img src="/assets/src/cherishos_4.8/">
+<img src="/assets/src/cherishos_4.8/">
+<img src="/assets/src/cherishos_4.8/">
+
 </details>
 
 ---
-
-<details>
-<summary> Скриншоты</summary>
-
-<img src="/assets/src/cherishos_4.8/IMG_20260803_141139_522.jpg">
-
-</details>
 
