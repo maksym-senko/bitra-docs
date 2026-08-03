@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/src/" width="100%" alt=" Banner">
+  <img src="assets/src/cherishos_v4.9/IMG_20260803_213839_330.jpg" width="100%" alt="Cherishos v4.9 Banner">
 </p>
 
 # CherishOS v4.9
@@ -43,25 +43,25 @@
 <br>
 
 <p align="center">
-  <img src="assets/src/cherishos_4.8/IMG_20260803_141139_522.jpg" width="30%">
-  <img src="assets/src/cherishos_4.8/IMG_20260803_141139_638.jpg" width="30%">
-  <img src="assets/src/cherishos_4.8/IMG_20260803_141139_693.jpg" width="30%">
+  <img src="assets/src/cherishos_v4.9/IMG_20260803_213810_772.jpg" width="30%">
+  <img src="assets/src/cherishos_v4.9/IMG_20260803_213838_769.jpg" width="30%">
+  <img src="assets/src/cherishos_v4.9/IMG_20260803_213838_960.jpg" width="30%">
 </p>
 
 <p align="center">
-  <img src="assets/src/cherishos_4.8/IMG_20260803_141139_804.jpg" width="30%">
-  <img src="assets/src/cherishos_4.8/IMG_20260803_141140_050.jpg" width="30%">
-  <img src="assets/src/cherishos_4.8/IMG_20260803_141140_062.jpg" width="30%">
+  <img src="assets/src/cherishos_v4.9/IMG_20260803_213839_055.jpg" width="30%">
+  <img src="assets/src/cherishos_v4.9/IMG_20260803_213839_101.jpg" width="30%">
+  <img src="assets/src/cherishos_v4.9/IMG_20260803_213839_182.jpg" width="30%">
 </p>
 
 <p align="center">
-  <img src="assets/src/cherishos_4.8/IMG_20260803_141140_091.jpg" width="30%">
-  <img src="assets/src/cherishos_4.8/IMG_20260803_141140_233.jpg" width="30%">
-  <img src="assets/src/cherishos_4.8/IMG_20260803_141140_271.jpg" width="30%">
+  <img src="assets/src/cherishos_v4.9/IMG_20260803_213839_374.jpg" width="30%">
+  <img<img src="assets/src/cherishos_v4.9/IMG_20260803_213839_607.jpg" width="30%">
+  <img src="assets/src/cherishos_v4.9/IMG_20260803_213839_679.jpg" width="30%">
 </p>
 
 <p align="center">
-  <img src="assets/src/cherishos_4.8/IMG_20260803_141140_283.jpg" width="30%">
+  <img src="assets/src/cherishos_v4.9/IMG_20260803_213839_691.jpg" width="30%">
 </p>
 
 </details>
