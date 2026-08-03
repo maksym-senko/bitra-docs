@@ -14,7 +14,7 @@
 ---
 
 <details>
-<summary><blockquote>Список изменений</blockquote></summary>
+<blockquote><summary> Список изменений</summary></blockquote>
 
 * Интегрировано обновление безопасности за май в исходный код прошивки.
 * Улучшены стили Quick Settings (QS).
