@@ -19,6 +19,7 @@
 
 <h3 align="center">Android 13</h3>
 
+* [Cherish OS v4.9](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.9.md)
 * [Cherish OS v4.8](https://github.com/maksym-senko/bitra-docs/blob/main/CherishOS%20v4.8.md)
 * [Cherish OS v4.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.2.md)
 * [Cherish OS v4.1.4 (05.11.2022)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.1.4_05.11.2022.md)
