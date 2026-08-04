@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/maksym-senko/bitra-docs/blob/main/assets/src/ParanoidAndroid_TopazStable4/IMG_20260804_081203_429.jpg" width="100%" alt="Paranoid Android Banner">
+  <img src="https://github.com/maksym-senko/bitra-docs/blob/main/assets/src/ParanoidAndroid/TopazStable4/IMG_20260804_081203_429.jpg" width="100%" alt="Paranoid Android Banner">
 </p>
 
 # Paranoid Android Topaz Stable 4
