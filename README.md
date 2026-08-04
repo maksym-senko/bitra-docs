@@ -19,6 +19,13 @@
 
 <h3 align="center">Android 13</h3>
 
+* [Ancient OS v7.3 (01.10.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.3_01.10.2023.md)
+* [Ancient OS v7.3 (27.09.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.3_27.09.2023.md)
+* [Ancient OS v7.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.2.md)
+* [Ancient OS v7.1 (27.04.2023](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.1_27.04.2023.md)
+* [Ancient OS v7.1 (20.03.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.1_20.03.2023.md)
+* [Ancient OS v7.0](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.0.md)
+
 * [Cherish OS v4.9](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.9.md)
 * [Cherish OS v4.8](https://github.com/maksym-senko/bitra-docs/blob/main/CherishOS%20v4.8.md)
 * [Cherish OS v4.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.2.md)
@@ -26,6 +33,10 @@
 * [Cherish OS v4.1.4 (18.10.2022)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.1.4.md)
 * [Cherish OS v4.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.1.md)
 * [Cherish OS v4.0.5](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.0.5.md)
+
+* [Paranoid Android Topaz Stable 4](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/ParanoidAndroid/TopazStable4.md)
+
+* [Rising OS v1.4](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/RisingOS/v1.4.md)
 
 <h3 align="center">Android 12</h3>
 
