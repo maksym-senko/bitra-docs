@@ -106,5 +106,6 @@ fastboot flash boot boot.img`
 * [Google Drive](https://drive.google.com/file/d/1yveaQ_UHD54c2Dl2KleCMEAVO0TWQDaK/view?usp=sharing)
 * [Pixeldrain](https://pixeldrain.com/u/NnsZ2yvQ)
 * [Huggingface](https://huggingface.co/datasets/spitfirert/bitra-archive/resolve/24f8011c62d57b0a83eec0fccbf17652c32c89f7/ROMs/Android-12/ColorOS/v12.1_03.05.2022/ColorOS12_port_bitra.zip)
+* [Internet archive](https://archive.org/download/bitra-archive/ROMs/Android-12/ColorOS/v12.1_03.05.2022/ColorOS12_port_bitra.zip)
 
 </details>
