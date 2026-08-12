@@ -49,7 +49,7 @@
 
 1. Загрузитесь в кастомное рекавери (Recovery).
 2. Выполните форматирование данных (`Format Data` через ввод `yes`).
-3. Прошейте образ SuperPartition.img и zip-архив с ROM.
+3. Прошейте нужный firmware и образ SuperPartition.img.
 4. Выполните `Wipe Dalvik / ART Cache`.
 5. Перезагрузитесь в систему.
 
