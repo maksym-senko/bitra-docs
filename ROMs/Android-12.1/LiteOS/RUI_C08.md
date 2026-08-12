@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/maksym-senko/bitra-docs/blob/main/assets/src/LiteOS/RUI3_C08/Screenshot_20260812-043730_Telegram.png" width="100%" alt="LiteOS RUI C08 Banner">
+  <img src="https://github.com/maksym-senko/bitra-docs/blob/main/assets/src/LiteOS/RUI3_C08/Screenshot_20260812-043730_Telegram.png" width="100%" alt="LiteOS RUI3 C08 Banner">
 </p>
 
-# Lite OS RUI C.08
+# Lite OS RUI3 C.08
 
 * **Android:** 12.1
 * **Статус:** Stok Mod IN
