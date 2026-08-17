@@ -44,5 +44,6 @@
 <br>
 
 * [SourceForge](https://sourceforge.net/projects/rui-lite-os/files/RUI2-android-11/RUI2_LITE_OS_A09.zip/download)
+* [Internet archive](https://archive.org/download/bitra-archive/ROMs/Android-11/LITEOS_RUI2_A09/RUI2_LITE_OS_A09.zip)
 
 </details>
