@@ -20,8 +20,8 @@
 <h3 align="center">Android 14</h3>
 
 * [Alpha Droid v2.5](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/AlphaDroid/v2.5.md)
-* [Alpha Droid v2.3](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/Alpha Droid/v2.3.md)
-* [AlphaDroid v2.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/AlphaDroid/v2.2.md)
+* [Alpha Droid v2.3](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/AlphaDroid/v2.3.md)
+* [Alpha Droid v2.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/AlphaDroid/v2.2.md)
 
 <br>
 
