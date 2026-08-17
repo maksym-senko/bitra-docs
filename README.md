@@ -16,7 +16,27 @@
 <summary><code> 📲 Прошивки </code></summary>
 
 <br>
+<h3 align="center">Android 14</h3>
+* [AlphaDroid v2.5](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/AlphaDroid/v2.5.md)
+* [AlphaDroid v2.3](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/AlphaDroid/v2.3.md)
+* [AlphaDroid v2.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/AlphaDroid/v2.2.md)
 
+* [ColorOS v14.1.0](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/ColorOS/v14.1.0.md)
+
+* [DerpFest v14_26.04.2024](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/DerpFest/v14_26.04.2024.md)
+* [DerpFest v14_26.03.2024](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/DerpFest/v14_26.03.2024.md)
+
+* [ParanoidAndroid UviteBeta1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/ParanoidAndroid/UviteBeta1.md)
+
+* [PixelOS 14.0_15.10.2024](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/PixelOS/14.0_15.10.2024.md)
+* [PixelOS 14.0_31.01.2024](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/PixelOS/14.0_31.01.2024.md)
+
+* [ProjectEverest v1.6](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/ProjectEverest/v1.6.md)
+
+* [RisingOS v2.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/RisingOS/v2.1.md)
+
+* [TenX-OS v1.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/TenX-OS/v1.2.md)
+<br>
 <h3 align="center">Android 13</h3>
 
 * [AlphaDroid v1.8](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AlphaDroid/v1.8.md)
