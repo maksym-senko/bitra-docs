@@ -100,6 +100,7 @@
 
 <br>
 
+* [LiteOS RUI4 F20](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/LiteOS/RUI4_F20.md)
 * [LiteOS RUI4 F05](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/LiteOS/RUI4_F05.md)
 
 <br>
