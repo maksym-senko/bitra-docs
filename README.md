@@ -16,7 +16,7 @@
 <summary><code> 📲 Прошивки </code></summary>
 
 <details>
-<summary> Android 14</summary>
+<summary><code> Android 14</code></summary>
 
 <br>
 
@@ -83,7 +83,7 @@
 </details>
 
 <details>
-<summary> Android 13</summary>
+<summary><code> Android 13</code></summary>
 
 <br>
 
@@ -198,7 +198,7 @@
 </details>
 
 <details>
-<summary> Android 12</summary>
+<summary><code> Android 12</code></summary>
 
 <br>
 
@@ -250,7 +250,9 @@
 </details>
 
 <details>
-<summary> Android 11</summary>
+<summary><code> Android 11</code></summary>
+
+<br>
 
 <details>
 <summary> Lite OS</summary>
