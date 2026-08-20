@@ -16,7 +16,7 @@
 <summary><code> 📲 Прошивки </code></summary>
 
 <details>
-<summary> <h3 align="center">Android 14</h3></summary>
+<summary> Android 14</summary>
 
 <details>
 <summary> Alpha Droid</summary>
@@ -80,78 +80,118 @@
 
 </details>
 
-<h3 align="center">Android 13</h3>
+<details>
+<summary> Android 13</summary>
 
-* [AlphaDroid v1.8](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AlphaDroid/v1.8.md)
-* [AlphaDroid v1.7.9](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AlphaDroid/v1.7.9.md)
-* [AlphaDroid v1.7](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AlphaDroid/v1.7.md)
-* [AlphaDroid v1.5.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AlphaDroid/v1.5.1.md)
-* [AlphaDroid v1.5](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AlphaDroid/v1.5.md)
+<details>
+<summary> Alpha Droid</summary>
 
-<br>
+* [v1.8](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AlphaDroid/v1.8.md)
+* [v1.7.9](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AlphaDroid/v1.7.9.md)
+* [v1.7](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AlphaDroid/v1.7.md)
+* [v1.5.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AlphaDroid/v1.5.1.md)
+* [v1.5](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AlphaDroid/v1.5.md)
 
-* [Ancient OS v7.3 (01.10.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.3_01.10.2023.md)
-* [Ancient OS v7.3 (27.09.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.3_27.09.2023.md)
-* [Ancient OS v7.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.2.md)
-* [Ancient OS v7.1 (27.04.2023](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.1_27.04.2023.md)
-* [Ancient OS v7.1 (20.03.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.1_20.03.2023.md)
-* [Ancient OS v7.0](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.0.md)
+</details>
 
-<br>
+<details>
+<summary> Ancient OS</summary>
+
+* [v7.3 (01.10.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.3_01.10.2023.md)
+* [v7.3 (27.09.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.3_27.09.2023.md)
+* [v7.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.2.md)
+* [v7.1 (27.04.2023](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.1_27.04.2023.md)
+* [v7.1 (20.03.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.1_20.03.2023.md)
+* [v7.0](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/AncientOS/v7.0.md)
+
+</details>
+
+<details>
+<summary> Banana Droid</summary>
 
 * [BananaDroid](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/BananaDroid/10.02.2023.md)
 
-<br>
+</details>
 
-* [Cherish OS v4.9](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.9.md)
-* [Cherish OS v4.8](https://github.com/maksym-senko/bitra-docs/blob/main/CherishOS%20v4.8.md)
-* [Cherish OS v4.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.2.md)
-* [Cherish OS v4.1.4 (05.11.2022)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.1.4_05.11.2022.md)
-* [Cherish OS v4.1.4 (18.10.2022)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.1.4.md)
-* [Cherish OS v4.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.1.md)
-* [Cherish OS v4.0.5](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.0.5.md)
+<details>
+<summary> Cherish OS</summary>
 
-<br>
+* [v4.9](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.9.md)
+* [v4.8](https://github.com/maksym-senko/bitra-docs/blob/main/CherishOS%20v4.8.md)
+* [v4.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.2.md)
+* [v4.1.4 (05.11.2022)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.1.4_05.11.2022.md)
+* [v4.1.4 (18.10.2022)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.1.4.md)
+* [v4.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.1.md)
+* [v4.0.5](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/CherishOS/v4.0.5.md)
 
-* [DerpFest v13 (18.02.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/DerpFest/v13_18.02.2023.md)
-* [DerpFest v13 (09.01.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/DerpFest/v13_09.01.2023.md)
-* [DerpFest v13 (22.12.2022)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/DerpFest/v13_22.12.2022.md)
+</details>
 
-<br>
+<details>
+<summary> DerpFest</summary>
 
-* [EvolutionX v7.4](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/EvolutionX/v7.4.md)
-* [EvolutionX v7.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/EvolutionX/v7.2.md)
-* [EvolutionX v7.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/EvolutionX/v7.1.md)
+* [v13 (18.02.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/DerpFest/v13_18.02.2023.md)
+* [v13 (09.01.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/DerpFest/v13_09.01.2023.md)
+* [v13 (22.12.2022)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/DerpFest/v13_22.12.2022.md)
 
-<br>
+</details>
 
-* [LiteOS RUI4 F20](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/LiteOS/RUI4_F20.md)
-* [LiteOS RUI4 F05](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/LiteOS/RUI4_F05.md)
+<details>
+<summary> EvolutionX</summary>
 
-<br>
+* [v7.4](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/EvolutionX/v7.4.md)
+* [v7.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/EvolutionX/v7.2.md)
+* [v7.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/EvolutionX/v7.1.md)
 
-* [Paranoid Android Topaz Stable 4](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/ParanoidAndroid/TopazStable4.md)
+</details>
 
-<br>
+<details>
+<summary> Lite OS</summary>
 
-* [PixelOS v13.0 (10.05.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/PixelOS/13.0_10.05.2023.md)
-* [PixelOS v13.0 (16.02.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/PixelOS/13.0_16.02.2023.md)
-* [PixelOS v13.0 (24.01.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/PixelOS/13.0_24.01.2023.md)
-* [PixelOS v13.0 (16.09.2022)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/PixelOS/13.0_16.09.2022.md)
+* [RUI4 F20](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/LiteOS/RUI4_F20.md)
+* [RUI4 F05](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/LiteOS/RUI4_F05.md)
 
-<br>
+</details>
 
-* [ProjectElixir v3.13](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/ProjectElixir/v3.13.md)
-* [ProjectElixir v3.11](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/ProjectElixir/v.3.11.md)
+<details>
+<summary> Paranoid Android</summary>
+  
+* [Topaz Stable 4](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/ParanoidAndroid/TopazStable4.md)
 
-<br>
+</details>
 
-* [RUI4 Port v5](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/RUI4-Port/v5.md)
+<details>
+<summary> Pixel OS</summary>
 
-<br>
+* [v13.0 (10.05.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/PixelOS/13.0_10.05.2023.md)
+* [v13.0 (16.02.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/PixelOS/13.0_16.02.2023.md)
+* [v13.0 (24.01.2023)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/PixelOS/13.0_24.01.2023.md)
+* [v13.0 (16.09.2022)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/PixelOS/13.0_16.09.2022.md)
 
-* [Rising OS v1.4](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/RisingOS/v1.4.md)
+</details>
 
+<details>
+<summary> Project Elixir</summary>
+
+* [v3.13](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/ProjectElixir/v3.13.md)
+* [v3.11](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/ProjectElixir/v.3.11.md)
+
+</details>
+
+<details>
+<summary> RUI4 Port</summary>
+  
+* [v5](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/RUI4-Port/v5.md)
+
+</details>
+
+<details>
+<summary> Rising OS</summary>
+
+* [v1.4](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-13/RisingOS/v1.4.md)
+
+</details>
+
+</details>
 
 <h3 align="center">Android 12</h3>
 
