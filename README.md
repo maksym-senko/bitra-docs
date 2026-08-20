@@ -18,6 +18,8 @@
 <details>
 <summary> Android 14</summary>
 
+<br>
+
 <details>
 <summary> Alpha Droid</summary>
 
@@ -82,6 +84,8 @@
 
 <details>
 <summary> Android 13</summary>
+
+<br>
 
 <details>
 <summary> Alpha Droid</summary>
@@ -193,38 +197,69 @@
 
 </details>
 
-<h3 align="center">Android 12</h3>
-
-* [ArrowOS 12.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/ArrowOS/12.1_05.06.2022.md)
-
-<br>
-
-* [CipherOS v3.6](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/CipherOS/v3.6.md)
-* [CipherOS v3.4](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/CipherOS/v3.4.md)
+<details>
+<summary> Android 12</summary>
 
 <br>
 
-* [ColorOS 12.1 (с OPPO Find X5 Pro)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/ColorOS/Port-Find-X5-Pro.md)
+<details>
+<summary> Arrow OS</summary>
+  
+* [12.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/ArrowOS/12.1_05.06.2022.md)
+
+</details>
+
+<details>
+<summary> Cipher OS</summary>
+
+* [v3.6](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/CipherOS/v3.6.md)
+* [v3.4](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/CipherOS/v3.4.md)
+
+</details>
+
+<details>
+<summary> Color OS</summary>
+
+* [12.1 (с OPPO Find X5 Pro)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/ColorOS/Port-Find-X5-Pro.md)
+
+</details>
+
+<details>
+<summary> Lineage Plus</summary>
+
+* [v19.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/Lineage%20Plus/v19.1_27.06.2022.md)
+
+</details>
+
+<details>
+<summary> Lite OS</summary>
+
+* [RUI3 C10](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/LiteOS/RUI3_C10.md)
+* [RUI3 C08](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/LiteOS/RUI3_C08.md)
+
+</details>
+
+<details>
+<summary> Project Elixir</summary>
+
+* [v2.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/ProjectElixir/v2.1.md)
+* [v2.0](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/ProjectElixir/v2.0.md)
+
+</details>
+
+<details>
+<summary> Android 11</summary>
+
+<details>
+<summary> Lite OS</summary>
 
 <br>
 
-* [LineagePlus v19.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/Lineage%20Plus/v19.1_27.06.2022.md)
+* [RUI2 A09](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-11/LiteOS/RUI2_A09.md)
 
-<br>
+</details>
 
-* [LiteOS RUI3 C10](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/LiteOS/RUI3_C10.md)
-* [LiteOS RUI3 C08](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/LiteOS/RUI3_C08.md)
-
-<br>
-
-* [ProjectElixir v2.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/ProjectElixir/v2.1.md)
-* [ProjectElixir v2.0](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-12.1/ProjectElixir/v2.0.md)
-
-<h3 align="center">Android 11</h3>
-
-
-* [LiteOS RUI2 A09](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-11/LiteOS/RUI2_A09.md)
-
+</details>
 
 </details>
 
