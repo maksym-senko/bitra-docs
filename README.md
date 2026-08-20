@@ -15,8 +15,6 @@
 <details>
 <summary><code> 📲 Прошивки </code></summary>
 
-<br>
-
 <details>
 <summary> <h3 align="center">Android 14</h3></summary>
 
