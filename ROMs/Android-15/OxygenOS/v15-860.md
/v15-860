@@ -1,0 +1,61 @@
+<p align="center">
+  <img src="https://github.com/maksym-senko/bitra-docs/blob/main/assets/src/OxygenOS/v15-860/IMG_20260820_231830_020.jpg" width="100%" alt="Oxygen OS Banner">
+</p>
+
+# Oxygen OS v15.0.2-860
+
+* **Android:** 15
+* **Статус:** Unofficial (Port)
+* **База порта:** OnePlus (версия 860)
+* **Дата билда:** 19.10.2025
+* **Мейнтейнер:** @SaiChaitanya888
+
+---
+
+<details>
+<summary><b>  Список изменений </b></summary>
+
+<br>
+
+* Обновлена анимация загрузки.
+* ​Исправлено отображение иконки сканера отпечатков пальцев при выключенном экране.
+* ​Исправлено предупреждение о начале записи вызова из предыдущей сборки.
+* ​Исправлена работа функции Double Tap to Wake (DT2W).
+* ​Сохранены все основные изменения, аналогичные ColorOS 15.
+* ​По умолчанию используется SukiSU (KernelSU-Next).
+
+</details>
+
+<details>
+<summary><b> Требования</b></summary>
+
+<br>
+
+* Firmware версия [F.22](https://sourceforge.net/projects/bitra-archive/files/Firmware/F22/fw-f22-sixteen.zip/download).
+
+</details>
+
+<details>
+<summary><b> Инструкция по установке</b></summary>
+
+<br>
+
+1. Загрузитесь в кастомное рекавери (Recovery).
+2. Прошейте Firmware.
+3. Прошейте `super.img` (предварительно распакуйте zip-архив с `super` до файла `.img.` При выборе раздела прокрутите вниз и выберите `super`).
+4. Выполните Wipe / Dalvik.
+5. Выполните форматирование данных (`Format Data` через ввод `yes`).
+6. Снова перезагрузитесь в рекавери и еще раз выполните `Format Data`.
+7. Перезагрузитесь в рекавери и повторно выполните Format Data.
+8. Перезагрузитесь в систему.
+
+</details>
+
+<details>
+<summary><b> Скачать</b></summary>
+
+<br>
+
+* [Pixeldrain](https://pixeldrain.com/u/fdqnbj9k)
+
+</details>
