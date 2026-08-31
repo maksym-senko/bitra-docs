@@ -292,7 +292,7 @@
 <details>
 <summary><code> 📦 Firmware </code></summary>
 
-* [Настройка Sandboxed Google Play в VoltageOS](https://github.com/maksym-senko/bitra-docs/blob/main/Guides%2FSandboxed.md)
+* *Раздел пополняется...* 
 
 </details>
 
@@ -301,7 +301,8 @@
 <details>
 <summary><code> 📖 Инструкции </code></summary>
 
-* *Раздел пополняется...*
+
+* [Настройка Sandboxed Google Play в VoltageOS](https://github.com/maksym-senko/bitra-docs/blob/main/Guides%2FSandboxed.md)
 
 </details>
 
