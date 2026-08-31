@@ -1,8 +1,8 @@
-Инструкция: Настройка Sandboxed Google Play в VoltageOS
+# Инструкция: Настройка Sandboxed Google Play в VoltageOS
 
-**Проект:** Sandboxed Google Play Services (GrapheneOS)
-**Поддержка:** VoltageOS ⚡
-**Преимущества:** Конфиденциальность, автономность, высокая скорость работы
+* **Проект:** Sandboxed Google Play Services (GrapheneOS)
+* **Поддержка:** VoltageOS ⚡
+* **Преимущества:** Конфиденциальность, автономность, высокая скорость работы
 
 <details>
 <summary><b> Что такое Sandboxed Google Play? </b></summary>
