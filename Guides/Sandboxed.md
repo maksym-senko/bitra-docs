@@ -1,4 +1,4 @@
-# Инструкция: Настройка Sandboxed Google Play в VoltageOS
+# Настройка Sandboxed Google Play в VoltageOS
 
 * **Проект:** Sandboxed Google Play Services (GrapheneOS).
 * **Поддержка:** VoltageOS.
