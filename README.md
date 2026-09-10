@@ -294,14 +294,14 @@
 
 <br>
 
-**India**
+<summary>**India**
 * [F.20](https://sourceforge.net/projects/bitra-archive/files/Firmware/F20/Firmware_F.20_EX01_IN.zip/download)
 
 **Europe**
 * [F.18](https://sourceforge.net/projects/bitra-archive/files/Firmware/F18/EU/Firmware_F.18_EX01_EU.zip/download)
 
 **Global**
-* [F.18](https://sourceforge.net/projects/bitra-archive/files/Firmware/F18/Global/Firmware_F.18_EX01_GLOBAL_UPDATED.zip/download)
+* [F.18](https://sourceforge.net/projects/bitra-archive/files/Firmware/F18/Global/Firmware_F.18_EX01_GLOBAL_UPDATED.zip/download)</summary>
 
 </details>
 
