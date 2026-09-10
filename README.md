@@ -294,7 +294,8 @@
 
 <br>
 
-<summary>**India**
+<summary>
+**India**
 * [F.20](https://sourceforge.net/projects/bitra-archive/files/Firmware/F20/Firmware_F.20_EX01_IN.zip/download)
 
 **Europe**
