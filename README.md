@@ -20,10 +20,28 @@
 <details>
 <summary><code> Android 16</code></summary>
 
+<br>
+
 <details>
 <summary> Axion AOSP</summary>
 
+* [v2.7](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/AxionAOSP/v2.7.md)
+* [v2.6](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/AxionAOSP/v2.6.md)
+* [v2.5](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/AxionAOSP/v2.5.md)
 * [v2.2.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/AxionAOSP/v2.2.1.md)
+
+</details>
+
+<details>
+<summary> Evolution X</summary>
+
+* [v11.8](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/EvolutionX/v11.8.md)
+* [v11.7](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/EvolutionX/v11.7.md)
+* [v11.6.3](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/EvolutionX/v11.6.3.md)
+* [v11.6.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/EvolutionX/v11.6.2.md)
+* [v11.6.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/EvolutionX/v11.6.1_17.02.2026.md)
+* [v11.6.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/EvolutionX/v11.6.1.md)
+* [v11.6](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/EvolutionX/v11.6.md)
 
 </details>
 
@@ -66,8 +84,6 @@
 </details>
 
 </details>
-
-<br>
 
 <details>
 <summary><code> Android 14</code></summary>
@@ -135,8 +151,6 @@
 </details>
 
 </details>
-
-<br>
 
 <details>
 <summary><code> Android 13</code></summary>
@@ -253,8 +267,6 @@
 
 </details>
 
-<br>
-
 <details>
 <summary><code> Android 12</code></summary>
 
@@ -306,8 +318,6 @@
 </details>
 
 </details>
-
-<br>
 
 <details>
 <summary><code> Android 11</code></summary>
