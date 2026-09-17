@@ -51,7 +51,7 @@
 
 </details>
 
-</detaila>
+</details>
 
 <details>
 <summary><code> Android 14</code></summary>
