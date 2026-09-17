@@ -45,6 +45,55 @@
 
 </details>
 
+<details>
+<summary> crDroid</summary>
+
+* [v12.8](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/crDroid/v12.8.md)
+* [v12.6](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/crDroid/v12.6.md)
+
+</details>
+
+<details>
+<summary> DerpFest</summary>
+
+* [v16.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/DerpFest/v16.2.md)
+* [v16.0](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/DerpFest/v16.0_13.12.2025.md)
+
+</details>
+
+<details>
+<summary> Lunaris AOSP</summary>
+
+* [v3.12 (10.09.2026)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/LunarisAOSP/v3.12_10.09.2026.md)
+* [v3.12 (05.07.2026)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/LunarisAOSP/v3.12.md)
+* [v3.11](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/LunarisAOSP/v3.11.md)
+* [v3.10](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/LunarisAOSP/v3.10.md)
+* [v3.9](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/LunarisAOSP/v3.9.md)
+* [v3.8](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/LunarisAOSP/v3.8.md)
+
+</details>
+
+<details>
+<summary> Mist OS</summary>
+
+* [v4.8](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/MistOS/v4.8.md)
+* [v4.7](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/MistOS/v4.7.md)
+* [v4.5](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/MistOS/v4.5.md)
+
+</details>
+
+<details>
+<summary> Pixel OS</summary>
+
+* [v16.2 (12.06.2026)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/PixelOS/v16.2_12.06.2026.md)
+* [v16.2 (11.05.2026)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/PixelOS/v16.2_11.05.2026.md)
+* [v16.2 (29.04.2026)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/PixelOS/v16.2_29.04.2026.md)
+* [v16.2 (11.04.2026)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/PixelOS/v16.2_11.04.2026.md)
+* [v16.2 (11.03.2026)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/PixelOS/v16.2_11.03.2026.md)
+* [v16.2 (07.03.2026)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/PixelOS/v16.2_07.03.2026.md)
+
+</details>
+
 </details>
 
 <details>
