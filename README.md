@@ -51,6 +51,8 @@
 
 </details>
 
+<br>
+
 </details>
 
 <details>
@@ -119,6 +121,8 @@
 </details>
 
 </details>
+
+<br>
 
 <details>
 <summary><code> Android 13</code></summary>
@@ -235,6 +239,8 @@
 
 </details>
 
+<br>
+
 <details>
 <summary><code> Android 12</code></summary>
 
@@ -286,6 +292,8 @@
 </details>
 
 </details>
+
+<br>
 
 <details>
 <summary><code> Android 11</code></summary>
