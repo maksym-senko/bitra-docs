@@ -94,6 +94,53 @@
 
 </details>
 
+<details>
+<summary> Project Infinity X</summary>
+
+* [v3.12](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/ProjectInfinityX/v3.12.md)
+* [v3.11](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/ProjectInfinityX/v3.11.md)
+* [v3.10](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/ProjectInfinityX/v3.10.md)
+* [v3.8](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/ProjectInfinityX/v3.8.md)
+* [v3.7 (19.02.2026)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/ProjectInfinityX/v3.7_19.02.2026.md)
+* [v3.7 (03.02.2026)](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/ProjectInfinityX/v3.7.md)
+* [v3.5](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/ProjectInfinityX/v3.5.md)
+
+</details>
+
+<details>
+<summary> Project Sakura</summary>
+
+* [v10.0](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/ProjectSakura/v10.0.md)
+
+</details>
+
+<details>
+<summary> Voltage OS</summary>
+
+* [v5.5](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/VoltageOS/v5.5.md)
+* [v5.6](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/VoltageOS/v5.6.md)
+* [v5.7](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/VoltageOS/v5.7.md)
+* [v5.8](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/VoltageOS/v5.8.md)
+
+</details>
+
+<details>
+<summary> Color OS</summary>
+
+* [v16.0.0-206](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/ColorOS/v16.0.0-206.md)
+* [v16.0.1-301](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/ColorOS/v16.0.1-301.md)
+* [v16.0](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/ColorOS/v16.0_07.01.2026.md)
+* [v16.0.5-700](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-16/ColorOS/v16.0.5-700.md)
+
+</details>
+
+<details>
+<summary> Oxygen OS</summary>
+
+* Пополняется
+
+</details>
+
 </details>
 
 <details>
