@@ -18,6 +18,42 @@
 <br>
 
 <details>
+<summary><code> Android 15</code></summary>
+
+<details>
+<summary><code> Blackiron</code></summary>
+
+* [v5.8](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-15/BlackIron/v5.8.md)
+
+</details>
+
+<details>
+<summary><code> Pixel OS</code></summary>
+
+* [SkylineUI v15](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-15/PixelOS/v15_25.06.2025.md)
+
+</details>
+
+<details>
+<summary><code> RisingOS</code></summary>
+
+* [v6.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-15/RisingOS/v6.1.md)
+
+</details>
+
+<details>
+<summary><code> Color OS</code></summary>
+
+* [v15.0.2-862](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-15/ColorOS/v15.0.2-862.md)
+* [v15.0.2-860](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-15/ColorOS/v15.0.2-860.md)
+* [v15.0.2-850](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-15/ColorOS/v15.0.2-850.md)
+* [v15-400](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-15/ColorOS/v15-400.md)
+
+</details>
+
+</detaila>
+
+<details>
 <summary><code> Android 14</code></summary>
 
 <br>
