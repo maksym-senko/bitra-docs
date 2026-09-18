@@ -137,7 +137,8 @@
 <details>
 <summary> Oxygen OS</summary>
 
-* Пополняется
+* [v16.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs%2FAndroid-16%2FOxygenOS%2Fv16.1.md)
+* [v16.0.5-700](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs%2FAndroid-16%2FOxygenOS%2Fv16.0.5-700.md)
 
 </details>
 
