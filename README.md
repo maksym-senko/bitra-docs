@@ -15,6 +15,8 @@
 <details>
 <summary><code> 📲 Прошивки </code></summary>
 
+<br>
+
 <details>
 <summary><code> Android 16</code></summary>
 
@@ -138,9 +140,9 @@
 * [v16.1](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs%2FAndroid-16%2FOxygenOS%2Fv16.1.md)
 * [v16.0.5-700](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs%2FAndroid-16%2FOxygenOS%2Fv16.0.5-700.md)
 
-<br>
-
 </details>
+
+<br>
 
 </details>
 
