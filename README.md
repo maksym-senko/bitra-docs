@@ -182,6 +182,8 @@
 
 </details>
 
+<br>
+
 </details>
 
 <details>
@@ -248,6 +250,8 @@
 * [v1.2](https://github.com/maksym-senko/bitra-docs/blob/main/ROMs/Android-14/TenX-OS/v1.2.md)
 
 </details>
+
+<br>
 
 </details>
 
@@ -364,6 +368,8 @@
 
 </details>
 
+<br>
+
 </details>
 
 <details>
@@ -416,6 +422,8 @@
 
 </details>
 
+<br>
+
 </details>
 
 <details>
@@ -436,8 +444,6 @@
 
 </details>
 
-<br>
-
 <details>
 <summary><code> ⚡ Ядра </code></summary>
 
@@ -445,16 +451,12 @@
 
 </details>
 
-<br>
-
 <details>
 <summary><code> 🛠️ Рекавери </code></summary>
 
 * *Раздел пополняется...*
 
 </details>
-
-<br>
 
 <details>
 <summary><code> 📦 Firmware </code></summary>
@@ -469,8 +471,6 @@
 * [F.18](https://sourceforge.net/projects/bitra-archive/files/Firmware/F18/Global/Firmware_F.18_EX01_GLOBAL_UPDATED.zip/download)
 
 </details>
-
-<br>
 
 <details>
 <summary><code> 📖 Инструкции </code></summary>
