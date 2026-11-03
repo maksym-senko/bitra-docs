@@ -77,5 +77,7 @@
 <br>
 
 * [SourceForge](https://sourceforge.net/projects/project-elixir/files/thirteen/bitra/ProjectElixir_3.11_bitra-13.0-20230819-1213-OFFICIAL.zip/download)
+* [Huggingface](https://huggingface.co/datasets/spitfirert/bitra-archive/resolve/main/ROMs/Android-13/ProjectElixir/v3.11_19.08.2023/ProjectElixir_3.11_bitra-13.0-20230819-1213-OFFICIAL.zip)
+* [Internet Archive](https://archive.org/download/bitra-archive/ROMs/Android-13/Project-Elixir/v3.11/ProjectElixir_3.11_bitra-13.0-20230819-1213-OFFICIAL.zip)
 
 </details>
